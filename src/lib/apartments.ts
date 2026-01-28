@@ -245,6 +245,28 @@ export const apartments: Apartment[] = [
     rating: 3.8,
     moveInSpecial: null,
     images: []
+  },
+  {
+    rank: 11,
+    name: "Skyhouse Raleigh",
+    address: "308 S Blount St, Raleigh, NC 27601",
+    city: "Raleigh",
+    neighborhood: "Downtown",
+    price: { min: 1650, max: 2156, overBudget: true },
+    beds: 1,
+    baths: 1,
+    sqft: "992",
+    amenities: ["Rooftop pool (23rd floor)", "24-hour fitness center", "Yoga/Pilates studio", "Rooftop firepit", "Grilling stations", "Pet friendly", "Saltwater pool", "Downtown views"],
+    highlights: ["High-rise living", "23 floors above downtown", "Resort-style rooftop", "1 Month Free special", "Price tracked"],
+    floorPlanUrl: "https://skyhouseraleigh.com/floorplans/",
+    tourUrl: "https://skyhouseraleigh.com/gallery/",
+    website: "https://skyhouseraleigh.com/",
+    phone: "(919) 296-0100",
+    pros: ["Stunning downtown views", "Rooftop amenities", "High-rise luxury", "1 month free special"],
+    cons: ["Over budget", "Premium pricing", "Downtown noise"],
+    rating: 4.7,
+    moveInSpecial: "1 Month FREE! (min lease term applies)",
+    images: []
   }
 ];
 
