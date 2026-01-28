@@ -17,7 +17,7 @@ export function ApartmentCard({ apartment }: ApartmentCardProps) {
   const formatPrice = (price: number) => `$${price.toLocaleString()}`;
 
   return (
-    <Card className="bg-neutral-900/50 border-neutral-800 hover:border-neutral-700 transition-all duration-300 hover:shadow-xl hover:shadow-neutral-950/50">
+    <Card className="bg-neutral-900/50 border-neutral-800 hover:border-neutral-600 transition-all duration-500 hover:shadow-2xl hover:shadow-neutral-950/70 hover:-translate-y-1">
       <CardHeader className="pb-4">
         <div className="flex items-start justify-between gap-4">
           <div className="flex items-center gap-3">

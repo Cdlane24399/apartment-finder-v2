@@ -69,7 +69,7 @@ export default function HomePage() {
         </div>
 
         {/* Apartment Cards */}
-        <div className="grid gap-6">
+        <div className="grid gap-6 stagger-children">
           {filteredApartments.map((apartment) => (
             <ApartmentCard key={apartment.rank} apartment={apartment} />
           ))}

@@ -39,7 +39,7 @@ export const apartments: Apartment[] = [
     amenities: ["Rooftop terrace", "Fitness center", "Resort-style pool", "Concierge", "Co-working lounge", "Pet spa", "Secured parking", "Package lockers"],
     highlights: ["Downtown location", "Walking distance to restaurants/nightlife", "Modern luxury finishes", "Floor-to-ceiling windows"],
     floorPlanUrl: "https://livedillonraleigh.com/floor-plans/one-bedroom/",
-    tourUrl: "https://my.matterport.com/show/?m=eFVCMxnqsag",
+    tourUrl: "https://www.matterport.com/discover/space/aHR0cHM6Ly9teS5tYXR0ZXJwb3J0LmNvbS9zaG93Lz9tPWVGVkNNeG5xc2Fn",
     website: "https://livedillonraleigh.com/",
     phone: "(919) 335-5044",
     pros: ["Prime downtown location", "Luxury amenities", "Walkable to everything", "Modern design", "Matterport 3D tour"],
